@@ -1,0 +1,8 @@
+log2 at 2022-03-10 08:41:14.161932: A transfers $100.00 USD to B.0
+log2 at 2022-03-10 08:41:14.162494: A transfers $100.00 USD to B.1
+log2 at 2022-03-10 08:41:14.162646: A transfers $100.00 USD to B.2
+log2 at 2022-03-10 08:41:14.162786: A transfers $100.00 USD to B.3
+log2 at 2022-03-10 09:02:14.248125: A transfers $100.00 USD to B.0
+log2 at 2022-03-10 09:02:14.248852: A transfers $100.00 USD to B.1
+log2 at 2022-03-10 09:02:14.249010: A transfers $100.00 USD to B.2
+log2 at 2022-03-10 09:02:14.249151: A transfers $100.00 USD to B.3

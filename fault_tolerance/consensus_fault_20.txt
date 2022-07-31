@@ -1,0 +1,59 @@
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Traceback (most recent call last):
+  File "consensus_fault_tolerance.py", line 121, in <module>
+    os.makedirs(output_path)
+  File "/data/gpfs/home/aalmamun/anaconda3/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: './consensus_output'
+Assertion failed in file socksm.c at line 362: sc->pg_is_set
+internal ABORT - process 10
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 3493580.0 ON cpu-4 CANCELLED AT 2022-04-10T07:48:46 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 3493580 ON cpu-4 CANCELLED AT 2022-04-10T07:48:46 DUE TO TIME LIMIT ***

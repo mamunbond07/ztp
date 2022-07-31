@@ -1,0 +1,2 @@
+('Data chunks ', 100, 'keys are of: ', 4554, 'bytes')
+('Time for', 100, 'keys registration: ', 5.31103515625)

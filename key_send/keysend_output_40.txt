@@ -1,0 +1,43 @@
+key {'d1': 55, 'd2': 42} received at node 1
+key {'d1': 55, 'd2': 42} received at node 12
+key {'d1': 55, 'd2': 42} received at node 5
+key {'d1': 55, 'd2': 42} received at node 6
+key {'d1': 55, 'd2': 42} received at node 7
+key {'d1': 55, 'd2': 42} received at node 9
+key {'d1': 55, 'd2': 42} received at node 10
+key {'d1': 55, 'd2': 42} received at node 11
+key {'d1': 55, 'd2': 42} received at node 14
+key {'d1': 55, 'd2': 42} received at node 15
+key {'d1': 55, 'd2': 42} received at node 16
+key {'d1': 55, 'd2': 42} received at node 18
+key {'d1': 55, 'd2': 42} received at node 19
+key {'d1': 55, 'd2': 42} received at node 4
+key {'d1': 55, 'd2': 42} received at node 13
+key {'d1': 55, 'd2': 42} received at node 3
+key {'d1': 55, 'd2': 42} received at node 2
+key {'d1': 55, 'd2': 42} received at node 20
+key {'d1': 55, 'd2': 42} received at node 8
+key {'d1': 55, 'd2': 42} received at node 17
+key {'d1': 55, 'd2': 42} received at node 21
+key {'d1': 55, 'd2': 42} received at node 22
+key {'d1': 55, 'd2': 42} received at node 23
+key {'d1': 55, 'd2': 42} received at node 24
+key {'d1': 55, 'd2': 42} received at node 25
+key {'d1': 55, 'd2': 42} received at node 26
+key {'d1': 55, 'd2': 42} received at node 27
+key {'d1': 55, 'd2': 42} received at node 28
+key {'d1': 55, 'd2': 42} received at node 29
+key {'d1': 55, 'd2': 42} received at node 30
+key {'d1': 55, 'd2': 42} received at node 31
+key {'d1': 55, 'd2': 42} received at node 32
+key {'d1': 55, 'd2': 42} received at node 33
+key {'d1': 55, 'd2': 42} received at node 34
+key {'d1': 55, 'd2': 42} received at node 35
+key {'d1': 55, 'd2': 42} received at node 36
+key {'d1': 55, 'd2': 42} received at node 37
+key {'d1': 55, 'd2': 42} received at node 38
+key {'d1': 55, 'd2': 42} received at node 39
+
+real	0m0.984s
+user	0m0.014s
+sys	0m0.015s
