@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 """
-Author:         aalmamun@nevada.unr.edu
+Author:         
 Usage:          mpiexec -n <thread #> python -O mpi_blockchain.py
 Input:          None
 Output:         <thread #> of files with commited transactions in ./output/
-Start Date:     02/05/2019
+Start Date:     02/05/2022
 Desc:           A quick prototype of blockchain using MPI
 Change History:    
-                02/09/2019: Reorg the output directory.
-                02/08/2019: 2PQC is implemented.
-                02/06/2019: I came up with the idea of 2PQC.
+                
 Idea: once the hpc cluster receives the data request, the receiver node will broadcast the request to the fellow nodes (no cluster concept like BAASH), the secret holders nodes will forward the secrets along with their votes, the receiver compute node does not need to know who are the fellow nodes that hold the secrets.
 
 
