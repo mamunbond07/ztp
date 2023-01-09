@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 """
-Author:         dzhao@uw.edu, aalmamun@nevada.unr.edu
+Author:         
 Usage:          mpiexec -n <thread #> python -O mpi_blockchain.py
 Input:          None
 Output:         <thread #> of files with commited transactions in ./output/
-Start Date:     02/05/2019
+Start Date:     02/05/2022
 Desc:           A quick prototype of blockchain using MPI
 Change History:    
-                02/09/2019: Reorg the output directory.
-                02/08/2019: 2PQC is implemented.
-                02/06/2019: I came up with the idea of 2PQC.
+                02/09/2022: Reorg the output directory.
+                02/08/2022: 2PQC is implemented.
+                02/06/2022: came up with the idea of 2PQC.
 """
 
 
