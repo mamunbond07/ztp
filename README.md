@@ -5,7 +5,7 @@ ZTP is an early prototype, designed with a lightweight decentralized parallel pr
 <img src="" width="250" height="250">
 
 ## ZTP Workflow
-<img src="" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/44820439/211341566-3651a90b-5d5a-4c6f-84f4-c9c3085c853b.png" width="250" height="250">
 
 ## Quick facts on ZTP version 1.0.0
 * ZTP is designed specifically for providing privacy support to blockchain architecture to provide distributed trustworthy resilience support.
